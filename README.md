@@ -10,7 +10,7 @@
 ### Contenue:
 - Categories
   - [Accueil 🏡](#Accueil)
-  - [À propos 🧑‍💼](#à-propos-de-moi)
+  - [À propos 🧑](#à-propos-de-moi)
   - [Mes projets 💻](#mes-projets)
   - [Carriere 📈](#ma-carrière)
   - [Compétence 🧠](#mes-compétences)
