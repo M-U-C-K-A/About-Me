@@ -45,7 +45,7 @@ En tant que développeur web, j'ai créé un site web pour un électricien profe
 
 tant que développeur web, j'ai créé un tableau de bord en ligne permettant de suivre en temps réel l'évolution de la situation épidémiologique dans le département de l'Aude. Mon dashboard a pour objectif de fournir aux habitants de l'Aude des informations précises et actualisées sur la pandémie de Covid-19, notamment sur le nombre de cas confirmés, de personnes guéries et de décès dus au virus, ainsi que sur les mesures prises par les autorités pour lutter contre la propagation de la maladie. Grâce à cet outil, les habitants de l'Aude peuvent être informés en temps réel de la situation épidémiologique dans leur département et adapter leur comportement en conséquence
 
-###### https://hugodelacour.xyz/annexe/covid.php
+##### https://hugodelacour.xyz/annexe/covid.php
 
 ## Ma carrière
 
