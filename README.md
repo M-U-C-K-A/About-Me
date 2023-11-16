@@ -6,7 +6,6 @@
 
 <i>Bienvenue sur mon portfolio Github</i>
 
-
 ### Contenue:
 - Categories
   - [Accueil 🏡](#Accueil)
